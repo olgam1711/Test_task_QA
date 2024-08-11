@@ -1,0 +1,21 @@
+{
+  "name": "test-task-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgam1711/Test_task_QA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgam1711/Test_task_QA/issues"
+  },
+  "homepage": "https://github.com/olgam1711/Test_task_QA#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.2.0"
+  }
+}
